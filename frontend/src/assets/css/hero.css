@@ -1,0 +1,39 @@
+.main-banner {
+  /* background-image: url(../images/banner-bg.jpg); */
+  background-position: center center;
+  background-size: cover;
+  min-height: 380px;
+  border-radius: 23px;
+  padding: 80px 60px;
+}
+
+.main-banner h6 {
+  font-size: 20px;
+  color: #fff;
+  font-weight: 400;
+  /* margin-bottom: 25px; */
+  /* margin-top: 20%; */
+}
+
+.main-banner h4 {
+  font-size: 45px;
+  text-transform: uppercase;
+  margin-bottom: 25px;
+}
+
+.main-banner h4 em {
+  font-style: normal;
+  /* color: #ff8512; */
+  /* color: #feb306; */
+  /* color: #fe940c; */
+  color: #ff8512;
+}
+
+.page-content {
+  background-color: #27292a;
+  /* margin-top: 10%; */
+  /* background-color: #4f89a7; */
+  padding: 1 rem;
+  margin-top: 50px;
+  border-radius: 25px;
+}

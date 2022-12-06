@@ -1,0 +1,17 @@
+.container-svg {
+  width: 100%;
+  /* overflow: hidden; */
+}
+
+@media screen and (max-width: 700px) {
+  .container-svg {
+    text-align: center;
+    height: 100vh;
+  }
+  .container-svg > svg {
+    height: 100vh;
+  }
+}
+.st6 {
+  fill: #ffffff;
+}
